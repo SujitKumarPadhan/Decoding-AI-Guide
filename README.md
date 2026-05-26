@@ -23,7 +23,7 @@ Medium Article: https://medium.com/@padhansujit36/decoding-ai-a-beginners-journe
 
 [💼 LinkedIn Profile] www.linkedin.com/in/sujit-padhan-5024053ab
 
-[📝 LinkedIn Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+[📝 LinkedIn Post]https://www.linkedin.com/posts/sujit-padhan-5024053ab_artificialintelligence-machinelearning-deeplearning-share-7465023016847126528-AKiH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGRDBJIB_0csZCdh8FlaKX1slIuBarZBY0M
 
 ## 👨‍💻 Author
 **Sujit Kumar Padhan**  
