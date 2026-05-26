@@ -33,7 +33,6 @@ Data Science Student
 Special thanks to:
 - Upendra Sir
 - Sonam Ma’am (Mentor)
-- Raghu Ram Adhuri Sir (Programming Manager)
 
 for their valuable guidance, mentorship, and continuous support throughout my learning journey.
 
